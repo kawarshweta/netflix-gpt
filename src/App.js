@@ -1,11 +1,8 @@
-import './App.css';
-import './tailwind-output.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="">
-          <h1 className='text-3xl font-bold'>Netflix gpt clon e</h1>
-    </div>
+    <Body />
   );
 }
 
